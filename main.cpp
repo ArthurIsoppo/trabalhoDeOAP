@@ -17,7 +17,7 @@ int A(int m, int n) {
 // Função main
 int main() {
     // Introdução
-    cout << "Variante da Função de Ackermann - 31/01/2025" << endl;
+    cout << "Variante da Função de Ackermann - 19/09/2025" << endl;
     cout << "Autores: Arthur Isoppo, Carlos Eduardo Lopes, Pedro Ferraz" << endl;
 
     // Inicio de feto
