@@ -37,3 +37,5 @@ int main() {
     }
     cout << "Programa finalizado porque algum número negativo foi inserido" << endl;
 }
+
+// Nota: Ler os inteiros e Printar em assembly vai ser chato
